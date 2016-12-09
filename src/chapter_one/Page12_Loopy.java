@@ -1,3 +1,5 @@
+package chapter_one;
+
 /**
  * Created by Andrzej on 2016-10-27.
  */
